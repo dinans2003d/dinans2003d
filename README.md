@@ -1,15 +1,15 @@
 ## Hi there, I'm Dinan Sooriyaarachchi! 👋
 ### 🎓 Education
-#### California State Polytechnic University, Pomona
-#### B.S. in Business Administration, Data Science, May 2026
-#### Concentrations: Computer Information Systems, Business Intelligence
-#### GPA: 3.66/4.00, Dean’s List & Presidential List
-### Achievements: Datathon 3rd Place, Public Speaking at Sri Lankan Association
+- California State Polytechnic University, Pomona
+- B.S. in Business Administration, Data Science, May 2026
+- Concentrations: Computer Information Systems, Business Intelligence
+- GPA: 3.66/4.00, Dean’s List & Presidential List
+- Achievements: Datathon 3rd Place, Public Speaking at Sri Lankan Association
 ### 💼 Career
-#### As a student with a major in Business Administration, concentrating in Computer Information Systems and Business Intelligence, I am passionate about turning complex data into actionable business strategies and decisions. I am deeply engaged in learning how to harness data to drive business improvement and efficiency.
+#### I am currently a Information System and Data Science Student with an emphasis on Business intelligence at Cal poly pomona. I'm passionate about finding the connection between data and business, turning insights into opportunities that drive smart decisions.
 
 ### 🌍 About Me
-#### Outside of my academic and career pursuits, I'm a dedicated traveler and content creator, specializing in lifestyle, travel, and tech tutorials. I enjoy being active, often going on runs and hikes to explore the natural beauty around me.
+#### Beyond my academic and career goals, I am a person who loves to travel. So far, I have been to many countries in Asia, but I am looking to delve into other regions like Europe! Alongside my passion for travel, I love creating content, whether it's about my life, traveling experiences, or simple tutorials regarding things I learn in my career and academic life. I am a sucker for pets, as dogs are one of my favorite animals!
 
 ### 🌐 Social Links
 #### [LinkedIn](https://www.linkedin.com/in/dinans/)

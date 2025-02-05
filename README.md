@@ -3,7 +3,6 @@
 - California State Polytechnic University, Pomona
 - B.S. in Business Administration, Data Science, May 2026
 - Concentrations: Computer Information Systems, Business Intelligence
-- Achievements: Datathon 3rd Place, Public Speaking at Sri Lankan Association
 ### 💼 Career
 #### I am currently a Information System and Data Science Student with an emphasis on Business intelligence at Cal poly pomona. I'm passionate about finding the connection between data and business, turning insights into opportunities that drive smart decisions.
 

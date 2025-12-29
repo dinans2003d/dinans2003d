@@ -4,7 +4,7 @@
 - B.S. in Information Systems, Data Science, May 2026
 - Concentrations: Computer Information Systems, Business Intelligence
 ### 💼 Career
-#### I am currently a Information System and Data Science Student with an emphasis on Business intelligence at Cal poly pomona. I'm passionate about finding the connection between data and business, turning insights into opportunities that drive smart decisions.
+#### Information Systems and Data Science student at Cal Poly Pomona with a business intelligence focus. I’ve delivered dashboards and analyses that reduced costs, improved reporting efficiency, and supported operational decision-making using Power BI, SQL, Python, and Excel.
 
 ### 🌍 About Me
 #### Beyond my academic and career goals, I am a person who loves to travel. So far, I have been to many countries in Asia, but I am looking to delve into other regions like Europe! Alongside my passion for travel, I love creating content, whether it's about my life, traveling experiences, or simple tutorials regarding things I learn in my career and academic life. I am a sucker for pets, as dogs are one of my favorite animals!

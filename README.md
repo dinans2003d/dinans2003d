@@ -5,9 +5,9 @@
 #### [LinkedIn](https://www.linkedin.com/in/dinans/)
 #### [YouTube](https://www.youtube.com/@Dinans2003/videos)
 
-# skills Showcase
+# skills showcase
 
-## Programming & Data Analysis
+## programming & data analysis
 
 | **skill**             | **skill**            | **skill**            |
 |------------------------|----------------------|----------------------|
@@ -18,7 +18,7 @@
 
 ---
 
-## Database & Cloud Management
+## database & cloud management
 
 | **skill**             | **Skill**            | **Skill**            |
 |------------------------|----------------------|----------------------|
@@ -27,7 +27,7 @@
 
 ---
 
-## Business Process & Optimization
+## business process & optimization
 
 | **skill**             | **skill**            | **skill**            |
 |------------------------|----------------------|----------------------|

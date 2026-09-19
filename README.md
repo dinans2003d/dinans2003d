@@ -1,4 +1,4 @@
-### about Me
+### about me
 #### Beyond my academic and career goals, I am a person who loves to travel. So far, I have been to many countries in Asia, but I am looking to delve into other regions like Europe! Alongside my passion for travel, I love creating content, whether it's about my life, traveling experiences, or simple tutorials regarding things I learn in my career and academic life. I am a sucker for pets, as dogs are one of my favorite animals!
 
 ### social Links
